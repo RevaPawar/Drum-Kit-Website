@@ -1,0 +1,1 @@
+Developed an interactive Drum Kit using HTML, CSS, and JavaScript, allowing users to produce distinct sounds by clicking on individual drum images. A playful and engaging project designed for entertainment and interactive learning.
